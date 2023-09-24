@@ -18,5 +18,5 @@ This is a web development project created as part of a virtual internship at Cod
 
 The primary purpose of this project is to:
 
-- Apply and demonstrate your web development skills.
+- Apply and demonstrate my web development skills.
 - Create a visually appealing and functional landing page.
